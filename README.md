@@ -165,6 +165,6 @@ chatApp/
 
 <div align="center">
 
-Built with ❤️ by **[Satyam Kumar Puthal](https://github.com/Satyamkumarputhal)**
+Backend project developed using Spring Boot and PostgreSQL
 
 </div>
